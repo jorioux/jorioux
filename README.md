@@ -8,4 +8,4 @@ I am a DevOps Engineer at Intact Financial Corporation in Montréal. Since 2018,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorioux&layout=compact)](#)
 
 ## 🤙🏻 Get In Touch
-- LinkedIn: https://www.linkedin.com/in/giuseppecampanelli/
+- LinkedIn: https://www.linkedin.com/in/jorioux/
